@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Words</string>
+    <string name="todo">TODO</string>
+    <string name="vocabulary">Vocabulary</string>
+    <string name="Favourite">Favourite</string>
+    <string name="Idioms">Idioms</string>
+    <string name="Share">Share</string>
+    <string name="Rate">Rate Us</string>
+    <string name="more">More</string>
+</resources>
